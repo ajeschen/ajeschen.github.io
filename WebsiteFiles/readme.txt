@@ -1,0 +1,1 @@
+This holds all the additional files for my ajeschen.github.io webpage, such as the html files, images, etc. 
