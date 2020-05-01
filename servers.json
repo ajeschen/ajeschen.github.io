@@ -1,7 +1,7 @@
 [
   {
     "name": "Inventr Server",
-    "address": "138.197.228.112:1234",
+    "address": "http://138.197.228.112:1234",
     "location": "US",
     "owner": "InventrKits",
     "website": "http://www.inventrkits.io/",
